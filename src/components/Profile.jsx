@@ -1,6 +1,6 @@
 const Profile = () => {
     return(
-        <div>Profile Page</div>
+        <div>Profile</div>
     )
 }
 
