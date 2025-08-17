@@ -19,7 +19,7 @@ const NavBar = () => {
     return navigate("/login");
     } catch (err) {
       // Error logic may be redirect to login page
-    }
+    };
   }
 
   return (

@@ -25,7 +25,7 @@ const Login = () => {
             setError(err?.response?.data || "Something went wrong");
         }
     };
-    
+
     return (
         <div className="flex justify-center my-10">
             <div className="card bg-base-300 w-80 shadow-xl">
